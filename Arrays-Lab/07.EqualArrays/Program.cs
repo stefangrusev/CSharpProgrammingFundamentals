@@ -15,7 +15,7 @@ namespace _07.EqualArrays
                  .Split()
                  .Select(int.Parse)
                  .ToArray();
-            int[] combinedArrays = firstArr.Union(secondArr).ToArray(); //probably it was not necesarry
+            int[] combinedArrays = firstArr.Union(secondArr).ToArray(); 
 
             int sum = 0;
 
