@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.RandomizeWords", "01.RandomizeWords\01.RandomizeWords.csproj", "{AD798CEB-4834-48A7-BBA1-F25D54D2A14E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BigFactorial", "02.BigFactorial\02.BigFactorial.csproj", "{3116C6F9-4B87-499A-8091-97448502E3C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Songs", "03.Songs\03.Songs.csproj", "{59FB5B5E-9852-4401-A97A-6557CFFD6254}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Students", "04.Students\04.Students.csproj", "{DCA5B1E4-CB7F-4DC5-9D2D-8C24B7977DD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.StudentsPartII", "5.StudentsPartII\05.StudentsPartII.csproj", "{BEF36BC9-BDA7-44E0-8608-277274B15451}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.StoreBoxes", "06.StoreBoxes\06.StoreBoxes.csproj", "{466B58CF-1ABD-4784-9C18-F6424DFA7216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VehicleCatalogue", "07.VehicleCatalogue\07.VehicleCatalogue.csproj", "{98963455-EDD5-4C6E-A5C0-61BBF2B3BD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD798CEB-4834-48A7-BBA1-F25D54D2A14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD798CEB-4834-48A7-BBA1-F25D54D2A14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD798CEB-4834-48A7-BBA1-F25D54D2A14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD798CEB-4834-48A7-BBA1-F25D54D2A14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3116C6F9-4B87-499A-8091-97448502E3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3116C6F9-4B87-499A-8091-97448502E3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3116C6F9-4B87-499A-8091-97448502E3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3116C6F9-4B87-499A-8091-97448502E3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FB5B5E-9852-4401-A97A-6557CFFD6254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FB5B5E-9852-4401-A97A-6557CFFD6254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FB5B5E-9852-4401-A97A-6557CFFD6254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FB5B5E-9852-4401-A97A-6557CFFD6254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA5B1E4-CB7F-4DC5-9D2D-8C24B7977DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA5B1E4-CB7F-4DC5-9D2D-8C24B7977DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA5B1E4-CB7F-4DC5-9D2D-8C24B7977DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA5B1E4-CB7F-4DC5-9D2D-8C24B7977DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF36BC9-BDA7-44E0-8608-277274B15451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF36BC9-BDA7-44E0-8608-277274B15451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF36BC9-BDA7-44E0-8608-277274B15451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF36BC9-BDA7-44E0-8608-277274B15451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466B58CF-1ABD-4784-9C18-F6424DFA7216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466B58CF-1ABD-4784-9C18-F6424DFA7216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466B58CF-1ABD-4784-9C18-F6424DFA7216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466B58CF-1ABD-4784-9C18-F6424DFA7216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98963455-EDD5-4C6E-A5C0-61BBF2B3BD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98963455-EDD5-4C6E-A5C0-61BBF2B3BD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98963455-EDD5-4C6E-A5C0-61BBF2B3BD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98963455-EDD5-4C6E-A5C0-61BBF2B3BD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {852012CB-63BC-489D-BEDF-E41A88123933}
+	EndGlobalSection
+EndGlobal
